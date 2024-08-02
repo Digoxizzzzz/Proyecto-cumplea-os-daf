@@ -1,0 +1,52 @@
+
+
+.really-player {
+    position: relative;
+    display: inline-block;
+    font-family: 'Arial', Arial, sans-serif;
+    height: 50px;
+    width: 250px;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background: #dedede;
+    background: linear-gradient(180deg, #dedede 0%, white 28%, #c6c6c6 50%, #c6c6c6 70%, white 100%);
+}
+
+h1,.post{
+    background: #ffffff7b;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.caminos{
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 5%;
+}
+
+.center2 {
+    display: block;
+    width: 100%;
+}
+
+.psolo {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.pemoji {
+    margin: 0%;
+}
+
+.post2 {
+    background: #ffffff7b;
+    margin-bottom: 2rem;
+}
